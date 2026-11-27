@@ -32,15 +32,15 @@ for a target.
 
 Only one diver dares to swim out. YOU.
 
-Armed with a harpoon gun and nerves of steel, you must clear the waters
-level by level, gather the power-ups that will turn the tide, and keep the
-city alive long enough for its scientists to finish the one weapon that
-could end the blockade forever...
+Armed with torpedoes and nerves of steel, you must fight through twenty
+levels of hostile water, gather the power-ups that will turn the tide, and
+find the one weapon that could end the blockade forever: the neutron
+bomb...
 
 - Silky-smooth, **flicker-free** action at a full 50 frames a second, on an
   original 48K Spectrum!
-- Wave upon wave of deadly sea creatures!
-- Missiles, bombs and power-ups to master!
+- Twenty levels of pulsar bombs, spinning wheels, homing missiles and worse!
+- Extra lives, the double shot, and the devastating Suction and Shove bombs!
 - The breathtaking city of Atlantis, revealed in glorious colour!
 
 *Started in 1984. Finished at last. Forty years in the making!*
@@ -71,7 +71,8 @@ coming, and it will throw everything it has at you.
 
 - **Twenty** gruelling levels!
 - New enemies, new dangers, a whole new sea!
-- The Lance: a weapon so powerful it can pierce anything in its path!
+- Earn your belts, from white to black, as you fight deeper!
+- The Lance: hold fire to charge a searing red beam that destroys everything it touches!
 
 *Continue your mission with the code earned by completing Atlantis.*
 
@@ -102,6 +103,8 @@ loader. Play the games in order: each one gives you the code for the next.
 | Key | Action |
 |---|---|
 | Q A O P, or 5 6 7 8 | Swim up, down, left and right |
+| Space | Fire |
+| Kempston joystick | Also supported |
 | Symbol Shift + F | Change speed |
 | Symbol Shift + P | Back to the menu |
 
