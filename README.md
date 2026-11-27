@@ -110,20 +110,13 @@ loader. Play the games in order: each one gives you the code for the next.
 
 ---
 
-## ATLANTIS FOR MODERN COMPUTERS (Java)
+## COMING SOON: ATLANTIS PLUS (Java)
 
-*Windows, macOS and Linux · `atlantis.jar`*
+*Windows, macOS and Linux*
 
-The whole trilogy, faithfully recreated to run on today's computers.
-
-Install [Java 21](https://adoptium.net/) or newer, download `atlantis.jar`,
-then run:
-
-```
-java -jar atlantis.jar
-```
-
-Add `--trigon` or `--finale` to start those games.
+The sea, unleashed. Full-screen action, Erin's brand-new creatures, deadly
+new weapons, and a whole ocean freed from the limits of 1984. Image 7
+Synthetics is hard at work. Watch this space!
 
 ---
 
